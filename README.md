@@ -1,7 +1,7 @@
 # QuickSim
 QuickSim is a Python-based Graphical User Interface (GUI) simulator designed to model and optimize bioprocessing and chemical systems. By integrating complex mathematical models with an intuitive frontend built using the Tkinter library, the platform allows users to test operating conditions and visualize results without requiring advanced programming skills. This computational approach reduces the time and high costs traditionally associated with large-scale physical lab experiments.
 
-Simulated Process Systems Distillation: Utilizes a robust tray model under non-isothermal and isobaric conditions to calculate liquid composition and temperature dynamics, governed by differential and algebraic equations.
+Distillation: Utilizes a robust tray model under non-isothermal and isobaric conditions to calculate liquid composition and temperature dynamics, governed by differential and algebraic equations.
 
 Chromatography: Employs a one-dimensional packed-bed dispersion model. It accounts for axial concentration variations in the mobile phase via convection and dispersion, alongside Langmuir adsorption for the stationary phase.
 
